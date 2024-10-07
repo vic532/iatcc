@@ -1,0 +1,111 @@
+body{
+    text-align: justify;
+}
+
+.titulo2{
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1000px;
+    font-size: 20px;
+    border-color: rgb(98, 98, 139);
+}
+.titulo2{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  text-align: justify;
+  width: 800px;
+  margin: auto;
+
+}
+.vic{
+
+    background-color: cornflowerblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    width: 800px;
+    margin: auto;
+}
+.victoria{
+    font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  width: 800px;
+  margin: auto;
+}
+.titulo1{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+   
+    text-align: center;
+
+}
+.socialicons{
+    width: 100;
+    text-decoration: none;
+    padding: 199px;
+    background-color: black;
+    margin: 100px;
+}
+.socialicons{
+    font-size: 2em;
+    color:black
+    opacity: 0.9
+}
+.socialicons a:hover:{
+    background-color: black;
+    transition: 0.5;
+}
+.footer{
+    margin: 30px 0;
+}
+.footernav ul{
+    display: flex;
+    justify-content: center;
+}
+.footernav ul li a{
+    color: ghostwhite;
+    margin: 20px;
+    text-decoration: none;
+    font-size: 1.3em;
+    opacity: 0.7;
+    transition: 0.5s;
+}
+.footernav ul li a:hover{
+    opacity: 1;
+
+}
+.footerbottom{
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+}
+.section{
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+}
+.formulario{
+    text-align: center;
+    background-color:  cornflowerblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: auto;
+    width: 800px;
+}
+.section{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+  text-align: justify;
+  width: 800px;
+  margin: auto;
+}
+.texto{
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+    color: black;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(84, 133, 189);
+    padding: 1rem;
+    box-shadow: 1px 4px 10px black;
+}
